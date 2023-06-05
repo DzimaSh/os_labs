@@ -1,0 +1,3 @@
+ID: 1 Name: vasya Hours: 5 Total salary: 35
+ID: 2 Name: petyA Hours: 7 Total salary: 49
+ID: 3 Name: 1 Hours: 0 Total salary: 0
